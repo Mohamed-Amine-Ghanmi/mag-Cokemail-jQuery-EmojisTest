@@ -12,9 +12,11 @@ This documentation helps you get started with this jquery application: We use in
 
 We decided to have our own emojis and not use those of apple, google or facebook to be more free in the folder img:
 
--you can add any emojis you would like to add -add it also in /img/emojis.js so that the program can load it. ':key:' : 'ameEmojis.ext' don't froget to add , -Done ! 
+-you can add any emojis you would like to add -add it also in /img/emojis.js so that the program can load it. 
 
-enjoy
+':key:' : 'Emojis.ext' don't froget to add , 
+
+-Done ! 
 
 3-how to change the way of opening the ToolTip :
 
