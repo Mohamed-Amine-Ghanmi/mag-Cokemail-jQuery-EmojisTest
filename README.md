@@ -2,6 +2,8 @@ mag-Cokemail-jQuery-EmojisTest
 
 This repository contains a jQuery application to add Emojis into Text
 
+Youtube URL for More Explanation : https://www.youtube.com/watch?v=ZSV0FI4yzYw
+
 This documentation helps you get started with this jquery application: We use in our exemple only the jQuery without any external plugins, keep it simple:
 
 1-How to install :
